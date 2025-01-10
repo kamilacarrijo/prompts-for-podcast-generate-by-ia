@@ -1,0 +1,41 @@
+Prompt:Podcast
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de Investimento, focado em Certificação CNPI-F cujo o nome é "Plano F: Certificação e Finanças" e tem como foco conseguir a certificação CNPI-F com o público alvo de iniciantes nos estudos para a certificação.
+
+O formato do roteiro deve ser:
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+[REGRAS]
+
+No bloco [INTRODUÇÃO] substitua por uma introdução iguais às introduções dos vídeos do canal "ei nerd", como se fossem escritos pelo Peter Jordan.
+No bloco [CURIOSIDADE 1] substitua por uma curiosidade da certificação.
+No bloco [CURIOSIDADE 2] sobre os principais conteúdos.
+No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final "Eu sou Kamila e esse foi o episódio dessa semana".
+Use termos de fácil explicação.
+O podcast vai ser apresentado somente por uma pessoa, chamada Kamila.
+O podcast deve ser curto.
+[REGRAS NEGATIVAS]
+
+Não use muitos termos técnicos.
+
+
+
+
+
+
+Plano F: Certificação e Finanças
+Episódio 1 - Começando sua Jornada CNPI-F
+[INTRODUÇÃO]
+"Fala, galera! Hoje vamos falar sobre um assunto que vai dar aquele UP nos seus estudos e te deixar mais perto de conquistar a tão sonhada certificação CNPI-F! Bora tirar o certificado do papel e transformar sua carreira? Segura aí, porque no episódio de hoje eu vou te contar umas curiosidades que você PRECISA saber pra começar com o pé direito nessa jornada. Então cola aqui e vem comigo!"
+
+[CURIOSIDADE 1]
+"Você sabia que a certificação CNPI-F é obrigatória pra quem quer atuar como analista de investimentos no Brasil? É tipo um passe VIP pro mercado financeiro! Ela é regulamentada pela CVM, que é a xerife do mercado de capitais aqui no país. Mas calma, pra conseguir o CNPI-F você precisa passar por três provas: Conteúdo Brasileiro (CB), Conteúdo Global (CG) e, claro, a prova de Fundamentos. Não parece moleza, né? Mas eu prometo que dá pra encarar se você organizar os estudos direitinho!"
+
+[CURIOSIDADE 2]
+"E falando em provas, quer saber o que mais cai nelas? A prova de Fundamentos, por exemplo, tem muito conteúdo sobre análise técnica e fundamentalista. Resumindo, você vai aprender a olhar gráficos, tendências, indicadores e também a analisar balanços das empresas. A parte legal é que tudo isso não é só teoria: dá pra usar no dia a dia pra tomar decisões mais inteligentes sobre investimentos. Ah, e se você acha que precisa ser um gênio da matemática pra passar, relaxa! Com dedicação e treino, qualquer pessoa pode aprender esses conteúdos."
+
+[FINALIZAÇÃO]
+"E é isso, galera! A certificação CNPI-F é o primeiro grande passo pra quem quer ser PRO no mercado financeiro e mergulhar de cabeça nesse mundo. Espero que as dicas de hoje tenham clareado um pouco mais o caminho pra você! Se curtiu, compartilha com aquele amigo que tá começando a estudar também. Eu sou Kamila e esse foi o episódio dessa semana. Até a próxima!"
